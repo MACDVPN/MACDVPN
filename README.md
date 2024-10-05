@@ -1,6 +1,7 @@
 ## [永久跳转页](https://github.com/MACDVPN/MACDVPN)
-- 永久跳转页永远不会被墙！如果官网打不开请打开永久跳转页获取新官网
-- 如果打不开永久跳转页请使用其他运营商网络尝试！比如当前是移动网络，换联通网络、电信网络尝试，也可使用手机蜂窝网络尝试
+- [永久跳转页](https://github.com/MACDVPN/MACDVPN) 永远不会被墙！如果官网打不开请打开 [永久跳转页](https://github.com/MACDVPN/MACDVPN) 获取新官网
+- 如果打不开 [永久跳转页](https://github.com/MACDVPN/MACDVPN) 请使用其他运营商网络尝试！比如当前是移动网络，换联通网络、电信网络尝试，也可使用手机蜂窝网络尝试
+- 如果出现极端情况打不开 [永久跳转页](https://github.com/MACDVPN/MACDVPN) 请使用UU加速器等其他游戏加速器，**加速 Steam** [添加官方账号好友](https://steamcommunity.com/id/MACDVPN) 稍后会通过 **Steam私信** 方式发送新官网地址
 
 ## [打开官网](https://macdvpn.com)
 - 域名可能随时被墙！请保存 [永久跳转页](https://github.com/MACDVPN/MACDVPN) 发现官网打不开可获取新官网！
