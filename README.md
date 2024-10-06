@@ -1,3 +1,6 @@
+## 点击 Starred 收藏 [永久跳转页](https://github.com/MACDVPN/MACDVPN)
+![Snipaste_2024-10-07_00-08-40](https://github.com/user-attachments/assets/584ab849-6a94-4eca-97be-7871d235f1f3)
+
 ## [永久跳转页](https://github.com/MACDVPN/MACDVPN)
 - [永久跳转页](https://github.com/MACDVPN/MACDVPN) 永远不会被墙！如果官网打不开请打开 [永久跳转页](https://github.com/MACDVPN/MACDVPN) 获取新官网
 - 如果打不开 [永久跳转页](https://github.com/MACDVPN/MACDVPN) 请使用其他运营商网络尝试！比如当前是移动网络，换联通网络、电信网络尝试，也可使用手机蜂窝网络尝试
