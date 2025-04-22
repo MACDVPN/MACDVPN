@@ -1,9 +1,11 @@
-## [永久跳转页](https://github.com/MACDVPN/MACDVPN)
-- [永久跳转页](https://github.com/MACDVPN/MACDVPN) 永远不会被墙！如果官网打不开请打开 [永久跳转页](https://github.com/MACDVPN/MACDVPN) 获取新官网
-- 如果打不开 [永久跳转页](https://github.com/MACDVPN/MACDVPN) 请使用其他运营商网络尝试！比如当前是移动网络，换联通网络、电信网络尝试，也可使用手机蜂窝网络尝试
+## 永久跳转页（防失联）
+- [永久跳转页-1](https://github.com/MACDVPN/MACDVPN)
+- [永久跳转页-2](https://bitbucket.org/macdvpn/macdvpn)
+- 请收藏我们的永久跳转页，这个页面不会被墙！如果官网打不开，可以随时通过这个页面进入最新官网。
+- 如果永久跳转页打不开，请换其他运营商的网络试试！比如你现在用的是移动网络，可以换成联通、电信，或者使用手机的数据流量再试一次。
 
-## [打开官网](https://macdvpn.com)
-- 域名可能随时被墙！请保存 [永久跳转页](https://github.com/MACDVPN/MACDVPN) 发现官网打不开可获取新官网！
+## 官网
+- [打开官网](https://macdvpn.com)
 
 ## 简介
 - MACDVPN 可以大幅提升您的网络质量、隐私和安全。
